@@ -23,7 +23,7 @@ This repository complements our source code repositories. Use it to collaborate 
 
 We believe in community-driven innovation. Your participation helps shape scalable, secure, and groundbreaking manufacturing solutions.
 
-✨ [Visit fireballz.ai](https://fireballz.ai) to learn more about our vision and tech.
+✨ [Visit fireballindustries.com](https://fireballindustries.com) to learn more about our vision and tech.
 
 ---
 

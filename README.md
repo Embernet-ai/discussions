@@ -1,47 +1,22 @@
-# 🔥 Fireball Industries Discussions
+# Fireball Industries Discussions
 
-Welcome to the **Discussions** repository for **Fireball Industries**: your launchpad for collaboration, questions, and innovation around Industry 4.0 and IIoT! 🏭💡
+Ask the people who build EmberNet and work the plant floor. This is the shared space for engineers, developers, partners, and contributors working on Fireball projects: get an answer, share what worked, and shape what we build next.
 
-This repo is a centralized space for **everyone working on Fireball projects**, from engineers and developers to partners and contributors, to connect, discuss issues, share progress, and spark ideas. 💬✨
-
-## 💬 What You Can Do Here
-
-- 🧠 Ask technical or strategic questions about our projects
-- 📣 Suggest new features, improvements, or report issues
-- 🔧 Share solutions, feedback, or challenges you're facing
-- 🤝 Engage with peers and Fireball team members in open discussions
-
----
+This repo complements our source repositories. Use it for questions and ideas that span projects or do not belong to a single codebase.
 
 Our projects include [EmberNet](https://embernet.ai), the complete industrial edge platform.
 
----
+## What you can do here
 
-## 🚀 Active Project Discussions
+- Ask technical or strategic questions about our projects and get an answer from someone who has done it
+- Suggest features and improvements, or report an issue
+- Share a solution that worked on your floor, so the next engineer skips the hard part
+- Meet peers and the Fireball team in open discussion
 
-This repository complements our source code repositories. Use it to collaborate across repositories or discuss project-wide matters that aren’t tied to a specific codebase.
+## Before you post
 
----
+Read the [Code of Conduct](./CODE_OF_CONDUCT.md) and the [Contributing Guidelines](./CONTRIBUTING.md). They keep the conversation useful and respectful for everyone.
 
-## 📢 Join the Conversation
+## Learn more
 
-We believe in community-driven innovation. Your participation helps shape scalable, secure, and groundbreaking manufacturing solutions.
-
-✨ [Visit fireballindustries.com](https://fireballindustries.com) to learn more about our vision and tech.
-
----
-
-## ✅ Code of Conduct
-
-We’re committed to respectful, inclusive, and professional interactions. Please read and follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
-
----
-
-## 🤝 How to Contribute
-
-
-If you’re here to help move Fireball forward, thank you! Please read our [Contributing Guidelines](./CONTRIBUTING.md) before posting or engaging.
-
----
-
-*Fuel your future. Spark your ideas. 🔥 Let’s talk Fireball.*
+[Visit fireballindustries.com](https://fireballindustries.com) to see what we build and who we build it for.

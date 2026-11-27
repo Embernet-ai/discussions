@@ -13,6 +13,10 @@ This repo is a centralized space for **everyone working on Fireball projects**, 
 
 ---
 
+Our projects include [EmberNet](https://embernet.ai), the complete industrial edge platform.
+
+---
+
 ## 🚀 Active Project Discussions
 
 This repository complements our source code repositories. Use it to collaborate across repositories or discuss project-wide matters that aren’t tied to a specific codebase.
